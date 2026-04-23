@@ -10,3 +10,4 @@ own solution — or read the provided one.
 ## Chapters
 
 - [f01-the-terminal](https://github.com/thecodingidiot-com/f01-the-terminal)
+- [f02-version-control](https://github.com/thecodingidiot-com/f02-version-control)

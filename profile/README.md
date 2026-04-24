@@ -11,3 +11,5 @@ own solution — or read the provided one.
 
 - [f01-the-terminal](https://github.com/thecodingidiot-com/f01-the-terminal)
 - [f02-version-control](https://github.com/thecodingidiot-com/f02-version-control)
+- f03 — The 2600 *(temporarily deferred — companion repo not yet available)*
+- [f04-writing-c](https://github.com/thecodingidiot-com/f04-writing-c)

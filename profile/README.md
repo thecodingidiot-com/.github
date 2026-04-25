@@ -13,3 +13,4 @@ own solution — or read the provided one.
 - [f02-version-control](https://github.com/thecodingidiot-com/f02-version-control)
 - f03 — The 2600 *(temporarily deferred — companion repo not yet available)*
 - [f04-writing-c](https://github.com/thecodingidiot-com/f04-writing-c)
+- [f05-building-c](https://github.com/thecodingidiot-com/f05-building-c)

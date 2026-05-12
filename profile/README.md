@@ -22,4 +22,4 @@ own solution — or read the provided one.
 
 ### Systems
 
-- c01-the-toolkit *(companion repo not yet available)*
+- [c01-the-toolkit](https://github.com/thecodingidiot-com/c01-the-toolkit)

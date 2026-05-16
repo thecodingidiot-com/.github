@@ -24,3 +24,8 @@ own solution — or read the provided one.
 
 - [c01-the-toolkit](https://github.com/thecodingidiot-com/c01-the-toolkit)
 - [c02-the-voice](https://github.com/thecodingidiot-com/c02-the-voice)
+- [c03-the-reader](https://github.com/thecodingidiot-com/c03-the-reader)
+
+### Games
+
+- [g01a-the-developer](https://github.com/thecodingidiot-com/g01a-the-developer)

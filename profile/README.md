@@ -25,6 +25,7 @@ own solution — or read the provided one.
 - [c01-the-toolkit](https://github.com/thecodingidiot-com/c01-the-toolkit)
 - [c02-the-voice](https://github.com/thecodingidiot-com/c02-the-voice)
 - [c03-the-reader](https://github.com/thecodingidiot-com/c03-the-reader)
+- [c04-the-infinite](https://github.com/thecodingidiot-com/c04-the-infinite)
 
 ### Games
 

@@ -32,3 +32,4 @@ own solution — or read the provided one.
 
 - [g01a-the-developer](https://github.com/thecodingidiot-com/g01a-the-developer)
 - [g01b-the-developer-graphical](https://github.com/thecodingidiot-com/g01b-the-developer-graphical)
+- [g01c-the-developer-acoustic](https://github.com/thecodingidiot-com/g01c-the-developer-acoustic)

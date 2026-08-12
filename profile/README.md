@@ -33,3 +33,15 @@ own solution — or read the provided one.
 - [g01a-the-developer](https://github.com/thecodingidiot-com/g01a-the-developer)
 - [g01b-the-developer-graphical](https://github.com/thecodingidiot-com/g01b-the-developer-graphical)
 - [g01c-the-developer-acoustic](https://github.com/thecodingidiot-com/g01c-the-developer-acoustic)
+
+## License
+
+Every companion repo in this organization is MIT licensed by default — copy
+the code into your own projects freely, no attribution or copyleft
+obligations. New chapter repos should carry a LICENSE file from their first
+commit rather than leaving it implicit.
+
+This license covers the companion code only. The curriculum itself — the
+chapter text, structure, and [thecodingidiot.com](https://thecodingidiot.com)
+as a site — is separately copyrighted and not covered by this or any repo's
+license.

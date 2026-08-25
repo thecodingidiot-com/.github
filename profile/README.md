@@ -23,6 +23,7 @@ own solution — or read the provided one.
 - [c03-the-reader](https://github.com/thecodingidiot-com/c03-the-reader)
 - [c04-the-infinite](https://github.com/thecodingidiot-com/c04-the-infinite)
 - [c05-the-pipeline](https://github.com/thecodingidiot-com/c05-the-pipeline)
+- [c06-the-sorter](https://github.com/thecodingidiot-com/c06-the-sorter)
 
 ### Games
 

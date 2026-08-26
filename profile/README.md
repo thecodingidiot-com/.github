@@ -25,7 +25,6 @@ own solution — or read the provided one.
 - [c05-the-pipeline](https://github.com/thecodingidiot-com/c05-the-pipeline)
 - [c06-the-sorter](https://github.com/thecodingidiot-com/c06-the-sorter)
 - [c07a-the-command](https://github.com/thecodingidiot-com/c07a-the-command)
-- [c07b-the-grammar](https://github.com/thecodingidiot-com/c07b-the-grammar)
 
 ### Games
 

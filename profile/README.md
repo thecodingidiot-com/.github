@@ -24,6 +24,7 @@ own solution — or read the provided one.
 - [c04-the-infinite](https://github.com/thecodingidiot-com/c04-the-infinite)
 - [c05-the-pipeline](https://github.com/thecodingidiot-com/c05-the-pipeline)
 - [c06-the-sorter](https://github.com/thecodingidiot-com/c06-the-sorter)
+- [c07c-the-chain](https://github.com/thecodingidiot-com/c07c-the-chain)
 
 ### Games
 

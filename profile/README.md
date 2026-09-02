@@ -28,6 +28,7 @@ own solution — or read the provided one.
 - [c07b-the-grammar](https://github.com/thecodingidiot-com/c07b-the-grammar)
 - [c07c-the-chain](https://github.com/thecodingidiot-com/c07c-the-chain)
 - [c07d-the-operator](https://github.com/thecodingidiot-com/c07d-the-operator)
+- [c08-the-deadlock](https://github.com/thecodingidiot-com/c08-the-deadlock)
 
 ### Games
 
@@ -35,6 +36,7 @@ own solution — or read the provided one.
 - [g01b-the-developer-graphical](https://github.com/thecodingidiot-com/g01b-the-developer-graphical)
 - [g01c-the-developer-acoustic](https://github.com/thecodingidiot-com/g01c-the-developer-acoustic)
 - [g02a-the-platformer](https://github.com/thecodingidiot-com/g02a-the-platformer)
+- [g02b-dimitrio-enhanced](https://github.com/thecodingidiot-com/g02b-dimitrio-enhanced)
 
 ## License
 

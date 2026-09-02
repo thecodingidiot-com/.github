@@ -30,6 +30,10 @@ own solution — or read the provided one.
 - [c07d-the-operator](https://github.com/thecodingidiot-com/c07d-the-operator)
 - [c08-the-deadlock](https://github.com/thecodingidiot-com/c08-the-deadlock)
 
+### The Rendering Journey
+
+- [r01-the-scaler](https://github.com/thecodingidiot-com/r01-the-scaler)
+
 ### Games
 
 - [g01a-the-developer](https://github.com/thecodingidiot-com/g01a-the-developer)

@@ -38,6 +38,12 @@ own solution — or read the provided one.
 - [g02a-the-platformer](https://github.com/thecodingidiot-com/g02a-the-platformer)
 - [g02b-dimitrio-enhanced](https://github.com/thecodingidiot-com/g02b-dimitrio-enhanced)
 
+### Rendering Journey
+
+- [r01-the-scaler](https://github.com/thecodingidiot-com/r01-the-scaler)
+- [r02-the-scaler](https://github.com/thecodingidiot-com/r02-the-scaler)
+- [r03-the-raycaster](https://github.com/thecodingidiot-com/r03-the-raycaster)
+
 ## License
 
 Every companion repo in this organization is MIT licensed by default — copy

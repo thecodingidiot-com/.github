@@ -33,6 +33,7 @@ own solution — or read the provided one.
 ### The Rendering Journey
 
 - [r01-the-scaler](https://github.com/thecodingidiot-com/r01-the-scaler)
+- [r02-the-scaler](https://github.com/thecodingidiot-com/r02-the-scaler)
 
 ### Games
 
